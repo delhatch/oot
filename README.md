@@ -1,6 +1,6 @@
 # oot
 This is my working area as I create new OOT custom modules for gnuradio.
-Mostly I will be adding message ports, but for some (selector) I will be pulling in changes that are available in newer version of gnuradio than I am able to run.
+Mostly I will be adding message ports, but for some (e.g. selector) I will be pulling in changes that are available in newer version of gnuradio than I am able to run.
 
 <h3>
   MySelector
