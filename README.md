@@ -7,5 +7,5 @@ Mostly I will be adding message ports, but for some (selector) I will be pulling
 </h3>
 <p>
   This is a copy of the "selector" block from gnuradio version 3.10.
-  Because Raspberry Pi gnuradio is at version 3.4, I am bringing in the updated selector module via this OOT block
+  Because Raspberry Pi gnuradio is at version 3.4, I am bringing in the updated selector block code, via this OOT block
 </p>
